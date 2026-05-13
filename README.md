@@ -148,6 +148,27 @@ This repository demonstrates practical blue-team oriented workflows including:
 - Timeline reconstruction
 - Evidence preservation procedures
 
+## Investigation Workflow
+
+1. Evidence acquisition
+2. Hash validation
+3. Passive metadata analysis
+4. IOC extraction
+5. OSINT correlation
+6. Timeline reconstruction
+7. YARA detection engineering
+8. Documentation and reporting
+
+---
+
+## Detection Engineering Notes
+
+The YARA detection logic implemented within this repository was intentionally designed as a lightweight passive forensic detection mechanism.
+
+The implemented detection workflow avoids destructive analysis techniques and instead focuses on artifact consistency validation, metadata correlation, and screenshot forensic indicators.
+
+This approach simulates real-world blue-team detection engineering methodologies frequently used during phishing and smishing investigations.
+
 ---
 
 ## Analyst
