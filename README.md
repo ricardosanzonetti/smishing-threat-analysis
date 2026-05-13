@@ -1,3 +1,30 @@
+# Smishing Threat Analysis – DFIR Investigation
+
+DFIR-oriented smishing investigation simulating a banking impersonation campaign targeting Spanish users through SMS-based social engineering techniques.
+
+## Key Capabilities
+
+- Passive forensic metadata analysis
+- IOC extraction and enrichment
+- YARA detection engineering
+- MITRE ATT&CK mapping
+- Timeline reconstruction
+- Evidence integrity validation
+- Threat intelligence correlation
+- Incident response documentation
+- Detection strategy development
+
+## Technologies & Methodologies
+
+- Kali Linux
+- Git & GitHub
+- YARA
+- DFIR workflows
+- OSINT correlation
+- SHA256 evidence validation
+- Threat hunting preparation
+- Incident response playbooks
+
 * Smishing Threat Analysis - ING Impersonation Case
 
 ** Overview
