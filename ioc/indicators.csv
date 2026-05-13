@@ -1,0 +1,6 @@
+type,value,description,severity,status
+hash_sha256,c8a6350c3f3ee2af8ff3a06ee2be5e80ddab770f473e33b32dacff02ed41cbbe,Original smishing screenshot hash,medium,verified
+file_name,sms_img_smishing_2026-05-12.jpg,Smishing evidence screenshot,medium,verified
+attack_type,smishing,SMS phishing activity,high,active
+social_engineering,credential_harvesting,Suspected credential theft objective,high,suspected
+platform,apple_ios,Apple screenshot artifact identified,low,observed
